@@ -4,6 +4,7 @@
   "projects": {
     "cart": "apps/cart",
     "cart-e2e": "apps/cart-e2e",
+    "products": "libs/products",
     "shell": "apps/shell",
     "shell-e2e": "apps/shell-e2e",
     "shop": "apps/shop",
